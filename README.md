@@ -11,5 +11,5 @@ Thank you. 💖
 
 ## ⏩How to install the script 
 1. Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)(Firefox)  / [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)(opera/chrome) addon.
-2. Click this [link](https://github.com/mahadi22/wawcb/blob/master/wawcb.user.js) to add the script to tampermonkey/greasemonkey.
+2. Click this [link](https://github.com/mahadi22/wawcb/raw/master/wawcb.user.js) to add the script to tampermonkey/greasemonkey.
 3. Done
