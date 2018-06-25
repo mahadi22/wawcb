@@ -1,4 +1,5 @@
 [![flag2](https://s05.flagcounter.com/mini/QkT3ad/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0)](http://bit.ly/QkT3ad) | [![flag](https://s04.flagcounter.com/mini/XVpR/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/)](https://info.flagcounter.com/XVpR)
+# DEPRECATED (DIDNT WORK)
 
 # ✔️WAWCB (WhatsAppWeb Custom Background)
 
